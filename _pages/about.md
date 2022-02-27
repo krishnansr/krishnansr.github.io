@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sivaramakrishnan Subramanian"
+title: "<span style="color:lightblue">Siva</span>ramakrishnan Subramanian"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
