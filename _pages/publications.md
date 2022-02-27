@@ -7,7 +7,7 @@ author_profile: true
 
 Page WIP.
 
-You can also find my past articles on <u><a href="{{site.author.googlescholar}}">Google Scholar</a>.</u>
+You can also find my past articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.
 
 
 {% comment %}
