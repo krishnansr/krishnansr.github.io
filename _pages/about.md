@@ -25,5 +25,8 @@ I graduated from <a href="https://www.annauniv.edu">Anna University</a> in India
 <br>
 
 This site was recently made and is a little sparse. You can find a summary of my past work <a href="https://krishnansr.github.io/cv">here</a>.
-[comment]: <> (You can reach me at krishnansr[dot]siva[at]gmail[dot]com)
+
+{% comment %}
+You can reach me at krishnansr[dot]siva[at]gmail[dot]com
+{% endcomment %}
 </p>
