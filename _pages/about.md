@@ -16,7 +16,7 @@ I'm a Data scientist working at <a href="https://www.apporchid.com">AppOrchid In
 <br>
 <br>
 
-Prior to this, I was an OSS contributor and mentor at <a href="https://www.openmined.org">OpenMined</a> exploring my interest in PPML ∩ Differential privacy-FL techniques. I also spent a year at <a href="https://www.solitontech.com">Soliton tech</a> designing end-to-end real time stereo image processing pipelines for industrial systems.
+Prior to this, I was an OSS contributor and mentor at <a href="https://www.openmined.org">OpenMined</a>, exploring my research interests in PPML **∩** Differential privacy. I also spent a year at <a href="https://www.solitontech.com">Soliton tech</a> designing end-to-end real time stereo image processing pipelines for industrial systems.
 <br>
 <br>
 
