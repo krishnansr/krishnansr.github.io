@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "{Siva}ramakrishnan Subramanian"
+title                    : "Sivaramakrishnan (Siva) Subramanian"
 title_separator          : "-"
 name                     : &name "Sivaramakrishnan Subramanian"
 description              : &description "Data Scientist working in the CV sphere. Interested in all things machine intelligence."
