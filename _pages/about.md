@@ -16,7 +16,7 @@ I'm a graduate student studying Computer Vision and Machine Learning at the <a h
 <br>
 <br>
   
-Prior to grad school, I lead the India data science team at <a href="https://www.apporchid.com">AppOrchid Inc</a>'s R&D Division. My research problems here were skewed towards Document Representation learning and Semantic PDF understanding for financial doc cohorts where I extract metadata from legalese docs using DL & traditional vision techniques. My work spanned across representation learning problems in CV, resource constrained-ML, and statistical hypothesis analysis for handling long-tails in OOD inference.
+Prior to grad school, I lead the India data science team at <a href="https://www.apporchid.com">AppOrchid Inc's</a> R&D Division. My research problems here were skewed towards Document Representation learning and Semantic PDF understanding for financial doc cohorts where I extract metadata from legalese docs using DL & traditional vision techniques. My work spanned across representation learning problems in CV, resource constrained-ML, and statistical hypothesis analysis for handling long-tails in OOD inference.
 <br>
 <br>
 
