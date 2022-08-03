@@ -20,7 +20,7 @@ Prior to grad school, I lead the India data science team at <a href="https://www
 <br>
 <br>
 
-I was an OSS contributor and mentor at <a href="https://www.openmined.org">OpenMined</a>, exploring my research interests in PPML <strong>∩</strong> Differential privacy. I also spent a year at <a href="https://www.solitontech.com">Soliton tech</a> designing end-to-end real time stereo image processing pipelines to control $2MM pilot industrial systems. I graduated from <a href="https://www.annauniv.edu">Anna University</a>, India with a Bachelor’s degree in Electrical Engineering. My past research interests were in the interdisciplinary field of electrical motor design optimization using statistical analysis tools, and I still relish contemporary research there.
+I was an OSS contributor and mentor at <a href="https://www.openmined.org">OpenMined</a>, exploring my research interests in PPML <strong>∩</strong> Differential privacy. I also spent a year at <a href="https://www.solitontech.com">Soliton tech</a> designing end-to-end real time stereo image processing pipelines to control $2MM pilot industrial systems. I graduated from <a href="https://www.annauniv.edu">Anna University</a>, India with a Bachelor’s degree in Electrical Engineering. My past research interests were in the interdisciplinary field of electrical motor design optimization using statistical analysis tools, and I still relish contemporary research here.
 <br>
 <br>
 
