@@ -24,7 +24,7 @@ I was an OSS contributor and mentor at <a href="https://www.openmined.org">OpenM
 <br>
 <br>
 
-This site was recently made and is a little sparse. You can find a summary of my past work <a href="https://krishnansr.github.io/cv">here</a>. You can reach me at <a href="mailto:sivarams@cs.cmu.edu">sivarams@cs.cmu.edu</a> or any of my socials.
+This site was recently made and is a little sparse - you can find a summary of my past work <a href="https://krishnansr.github.io/cv">here</a>. I'm also available at <a href="mailto:sivarams@cs.cmu.edu">sivarams@cs.cmu.edu</a> or my socials.
 
 {% comment %}
 You can reach me at sivarams[at]cs[dot]cmu[dot]edu
