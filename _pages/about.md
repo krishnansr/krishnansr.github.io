@@ -24,7 +24,7 @@ I'm a graduate student studying Computer Vision and Machine Learning at the <a h
 <br>
 <br>
 
-This site was recently made and is a little sparse - you can find a summary of my past work <a href="https://krishnansr.github.io/cv">here</a>. I'm also available at <a href="mailto:sivarams@cs.cmu.edu">sivarams@cs.cmu.edu</a> or my socials.
+P.S. This site was recently made and is a little sparse - you can find a summary of my past work <a href="https://krishnansr.github.io/cv">here</a>. I'm also available at <a href="mailto:sivarams@cs.cmu.edu">sivarams@cs.cmu.edu</a> or my socials.
 
 {% comment %}
 You can reach me at sivarams[at]cs[dot]cmu[dot]edu
