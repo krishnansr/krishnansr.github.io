@@ -12,7 +12,7 @@ redirect_from:
 [comment]: <> (<t style="font-size:30px;color:rgb&#40;139, 209, 212&#41;"><b>About me</b></t>)
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a graduate student studying Computer Vision and Machine Learning at the <a href="https://www.ri.cmu.edu">Robotics Institute</a>, Carnegie Mellon University. I'm interested in problems at the heart of visual perception, image synthesis, multi-modal learning, robotics, and broadly all things machine intelligence. I have past experience in building real-time scalable data systems to address some of these challenges.
+I'm a graduate student studying Computer Vision and Machine Learning at the <a href="https://www.ri.cmu.edu">Robotics Institute</a>, Carnegie Mellon University. I'm interested in problems at the heart of visual perception, image synthesis, multi-modal learning, robotics, and broadly all things machine intelligence. I have past experience in building real-time scalable data systems to address some of these challenges.
 <br>
 <br>
   
