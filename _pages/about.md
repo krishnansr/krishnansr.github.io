@@ -12,15 +12,15 @@ redirect_from:
 [comment]: <> (<t style="font-size:30px;color:rgb&#40;139, 209, 212&#41;"><b>About me</b></t>)
 
 <p align="justify">
-I'm a graduate student studying Computer Vision and Machine Learning at the <a href="https://www.ri.cmu.edu">Robotics Institute</a>, Carnegie Mellon University. I'm interested in problems at the heart of visual perception, image synthesis, robotics, multi-modal learning, and broadly all things machine intelligence. I have past experience in building real-time scalable data systems to address these problems.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a graduate student studying Computer Vision and Machine Learning at the <a href="https://www.ri.cmu.edu">Robotics Institute</a>, Carnegie Mellon University. I'm interested in problems at the heart of visual perception, image synthesis, multi-modal learning, robotics, and broadly all things machine intelligence. I have past experience in building real-time scalable data systems to address some of these challenges.
 <br>
 <br>
   
-Prior to grad school, I lead the India data science team at <a href="https://www.apporchid.com">AppOrchid Inc's</a> R&D Division. My research problems here were skewed towards Document Representation learning and Semantic PDF understanding for financial doc cohorts where I extract metadata from legalese docs using DL & traditional vision techniques. My work spanned across representation learning problems in CV, resource constrained-ML, and statistical hypothesis analysis for handling long-tails in OOD inference.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prior to grad school, I led the India data science team at <a href="https://www.apporchid.com">AppOrchid Inc's</a> R&D Division. My research problems here were skewed towards Document Representation learning and Semantic PDF understanding for financial doc cohorts where I extract metadata from legalese docs using DL & traditional vision techniques. My work spanned across representation learning problems in CV, resource constrained-ML, and statistical hypothesis analysis for handling long-tails in OOD inference.
 <br>
 <br>
 
-I was an OSS contributor and mentor at <a href="https://www.openmined.org">OpenMined</a>, exploring my research interests in PPML <strong>∩</strong> Differential privacy. I also spent a year at <a href="https://www.solitontech.com">Soliton tech</a> designing end-to-end real time stereo image processing pipelines to control $2MM pilot industrial systems. I graduated from <a href="https://www.annauniv.edu">Anna University</a>, India with a Bachelor’s degree in Electrical Engineering. My past research interests were in the interdisciplinary field of electrical motor design optimization using statistical analysis tools, and I still relish contemporary research here.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was an OSS contributor and mentor at <a href="https://www.openmined.org">OpenMined</a>, exploring my research interests in PPML <strong>∩</strong> Differential privacy. I also spent a year at <a href="https://www.solitontech.com">Soliton tech</a> designing end-to-end real time stereo image processing pipelines to control $2MM pilot industrial systems. I graduated from <a href="https://www.annauniv.edu">Anna University</a>, India with a Bachelor’s degree in Electrical Engineering. My past research interests were in the interdisciplinary field of electrical motor design optimization using statistical analysis tools, and I still relish contemporary research here.
 <br>
 <br>
 
