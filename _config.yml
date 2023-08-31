@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Sivaramakrishnan (Siva) Subramanian"
 title_separator          : "-"
 name                     : &name "Sivaramakrishnan Subramanian"
-description              : &description "CV Grad student in the Robotics Institute @ Carnegie Mellon. Interested in all things machine intelligence"
+description              : &description "CV Grad student in the Robotics Institute at Carnegie Mellon. Interested in all things machine intelligence"
 url                      : https://krishnansr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "krishnansr/krishnansr.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Siva"
   avatar           : "profile.png"
-  bio              : "CV Grad student in the Robotics Institute @ Carnegie Mellon. Interested in all things machine intelligence."
+  bio              : "CV Grad student in the Robotics Institute at Carnegie Mellon. Interested in all things machine intelligence."
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           :
